@@ -8,12 +8,12 @@ Furthermore, a smoothness factor was added as the movement was really shaky.
 
 
 ### Working:
-Index finger to move cursor
-Middle finger for write click
-Index finger + Middle finger touching together will perform single click
-Index finger + Middle finger wide open will perform single click
-Index finger + thumb to perform scroll down
-Index finger + little finger to perform scroll up
+- Index finger to move cursor
+- Middle finger for right click
+- Index finger + Middle finger touching together will perform single click
+- Index finger + Middle finger wide open will perform single click
+- Index finger + thumb to perform scroll down
+- Index finger + little finger to perform scroll up
 
 ## Requirements:
 Following modules need to be installed for it to work properly:
